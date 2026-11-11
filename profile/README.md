@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/294434079?s=200" alt="DOTV AI" width="96" />
 </h1>
 
-<h1 align="center">DOTV AI <sub>作视</sub></h1>
+<h1 align="center">DOTV AI · 作视</h1>
 <p align="center"><b>AI do TV? Just DOTV it.</b></p>
 <p align="center">AI-native canvas for video creation.</p>
 
