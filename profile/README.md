@@ -3,10 +3,10 @@
 </h1>
 
 <h1 align="center">DOTV AI · 作视</h1>
-<p align="center"><b>AI do TV? Just DOTV it.</b></p>
-<p align="center">AI-native canvas for video creation.</p>
 
-DOTV AI ([dotv.ai](https://dotv.ai)) is an AI video creation platform: **scripts, storyboards, characters, shots, voiceover, compositing and Agent workflows on one infinite canvas.** One canvas takes an idea from script to finished film — with multi-angle shots, lighting, frame-by-frame film study (逐帧拉片), compositing and Agent automation in the same workspace.
+AI do TV? Just DOTV it. — Infinite-canvas AI video creation platform: scripts, storyboards, images, video, voiceover, compositing & team collaboration. dotv.ai
+
+One canvas takes an idea from script to finished film — with multi-angle shots, lighting, frame-by-frame film study (逐帧拉片), compositing and Agent automation in the same workspace.
 
 ## What's inside
 
